@@ -3,5 +3,14 @@
     "info": {
         "title": "test-api",
         "description": ""
+    },
+    "paths": {
+        "/api": {
+            "get": {
+                "responses": {
+                    "200": {}
+                }
+            }
+        }
     }
 }
